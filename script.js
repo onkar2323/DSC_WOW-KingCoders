@@ -62,10 +62,17 @@ function closeForm() {
 
 
 
+let header = document.getElementById("header");
+console.log(header);
 
-
-
-
+function togglevisibility() {
+    console.log("toggle");
+    if(header.style.visibility === "hidden"){
+        header.style.visibility = "visible";
+        return;
+    }
+    header.style.visibility = "hidden";
+}
 
 
 
