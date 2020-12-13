@@ -68,7 +68,7 @@ p, a, button, input {
     animation-duration: 1s;
     animation-delay: .1s; }
   #landing p {
-    width: 36vw;
+    width: 40vw;
     text-align: center;
     line-height: 190%; }
   #landing button {
@@ -234,7 +234,7 @@ p, a, button, input {
         margin-bottom: 0.5rem; }
       #info-section article div p {
         font-size: 1rem;
-        width: 70%;
+        width: 89%;
         line-height: 220%; }
   #info-section article:nth-of-type(1) figure {
     background-image: url("../images/info-1.jpg"); }
